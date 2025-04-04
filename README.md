@@ -14,20 +14,8 @@ The dataset used for this project is the **Breast Cancer Wisconsin Dataset**, wh
 To run this project, ensure you have the following dependencies installed:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+pip install numpy pandas matplotlib seaborn scikit
 ```
-
-## Project Structure
-```
-├── data/                   # Dataset files (CSV format)
-├── notebooks/              # Jupyter Notebooks for experimentation
-├── models/                 # Saved trained models
-├── src/                    # Source code for preprocessing and training
-│   ├── preprocess.py       # Data cleaning and feature engineering
-│   ├── train.py            # Model training script
-│   ├── evaluate.py         # Model evaluation script
-├── README.md               # Project documentation
-├── requirements.txt        # List of dependencies
 ```
 
 ## Implementation Steps
